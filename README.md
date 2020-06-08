@@ -6,7 +6,7 @@
 
 ### Overview ###
 DOTS News is a news aggregator created as part of coursework assigned as a part of the course Database Systems COM212P. <br>
-####Goals####
+#### Goals ####
 - To create a simple news interface without high usage of bandwidth
 - To address privacy concerns over data collection (DOTS collects a low amount of data compared to other existing products)
 - To allow users to contribute to the project through their own content
@@ -14,7 +14,7 @@ DOTS News is a news aggregator created as part of coursework assigned as a part 
 
 DOTS is aimed at general readers of news. It is also aimed at writers who want to showcase their content.
 
-####Team####
+#### Team ####
 - Vamsi Krishna Thigulla - Team Leader, Content Manager - coe18b056@iiitdm.ac.in
 - Hrishikesh Rajesh Menon - Graphic Designer - coe18b024@iiitdm.ac.in
 - Srinivasan R. Sharma - User Database Administrator, Backend Developer - coe18b065@iiitdm.ac.in
@@ -22,3 +22,37 @@ DOTS is aimed at general readers of news. It is also aimed at writers who want t
 - Shashank Dokania - Content Validation, Spam Checking - coe18b067@iiitdm.ac.in
 
 ![SiteMap](gloomap_8781c185.jpg)
+
+### Pages ###
+#### Homepage ####
+![Headlines](Headlines 2.jpg)
+
+![Hot Topics](Hot Topics 1.jpg)
+
+![Team Members](Team 1.jpg)
+
+![Member Information](Members 1.jpg)
+
+#### Business ####
+![Business](Business 2.jpg)
+
+#### Entertainment ####
+![Entertainment](Entertainment 1 (2).jpg)
+
+#### Health ####
+![Health](Health 2.jpg)
+
+#### India ####
+![India](India 2.jpg)
+
+#### Science ####
+![Science](Science 2.jpg)
+
+#### Sports ####
+![Sports](Sports 2.jpg)
+
+#### Technology ####
+![Technology](Technology 2.jpg)
+
+#### World ####
+![World](World 2.jpg)
