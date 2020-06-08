@@ -25,34 +25,34 @@ DOTS is aimed at general readers of news. It is also aimed at writers who want t
 
 ### Pages ###
 #### Homepage ####
-![Headlines](Headlines 2.jpg)
+![Headlines](Headlines.jpg)
 
-![Hot Topics](Hot Topics 1.jpg)
+![Hot Topics](HotTopics.jpg)
 
-![Team Members](Team 1.jpg)
+![Team Members](Team.jpg)
 
-![Member Information](Members 1.jpg)
+![Member Information](Members.jpg)
 
 #### Business ####
-![Business](Business 2.jpg)
+![Business](Business.jpg)
 
 #### Entertainment ####
-![Entertainment](Entertainment 1 (2).jpg)
+![Entertainment](Entertainment.jpg)
 
 #### Health ####
-![Health](Health 2.jpg)
+![Health](Health.jpg)
 
 #### India ####
-![India](India 2.jpg)
+![India](India.jpg)
 
 #### Science ####
-![Science](Science 2.jpg)
+![Science](Science.jpg)
 
 #### Sports ####
-![Sports](Sports 2.jpg)
+![Sports](Sports.jpg)
 
 #### Technology ####
-![Technology](Technology 2.jpg)
+![Technology](Technology.jpg)
 
 #### World ####
-![World](World 2.jpg)
+![World](World.jpg)
