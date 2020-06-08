@@ -56,3 +56,7 @@ DOTS is aimed at general readers of news. It is also aimed at writers who want t
 
 #### World ####
 ![World](World.jpg)
+
+#### Hot Topics ####
+##### COVID-19 #####
+![COIVD-19](COVID.jpg)
