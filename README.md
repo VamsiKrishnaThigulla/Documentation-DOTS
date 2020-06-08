@@ -75,3 +75,12 @@ DOTS is aimed at general readers of news. It is also aimed at writers who want t
 1. Enter the Username and Password with which you have registered.
 2. ![LoginPage](Login.jpg)
 Note: If you are a newly registered user, please verify your account before logging in to your account.
+
+#### Story Submission ####
+1. Registered users can submit stories of any genre.
+2. Stories will be considered for the Best Story of the month, and will be selected by the editor.
+3. Guidelines to follow for story submission:
+* All submissions must be in .txt format only.
+* The author name and story title must be given at the beginning.
+4. There is no limit to the number of submissions from a user.
+5. ![StoryUpload](Upload.jpg)
