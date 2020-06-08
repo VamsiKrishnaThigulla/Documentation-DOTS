@@ -60,3 +60,13 @@ DOTS is aimed at general readers of news. It is also aimed at writers who want t
 #### Hot Topics ####
 ##### COVID-19 #####
 ![COIVD-19](COVID.jpg)
+
+### Users ###
+#### Signup steps ####
+1.New users need to register to submit their stories to be selected for the Best Story. <br>
+2.Users need to enter their unique Username, Password, Email Address and Age. <br>
+3. ![Signup](Signup1.jpg)
+4.Once registered, an email address cannot be used to register again. <br>
+5. ![Already_Registered](Signup2.jpg)
+6.A verification key will be sent to the registered email after which, users may login. <br>
+7. ![Verification](Verification.jpg)
