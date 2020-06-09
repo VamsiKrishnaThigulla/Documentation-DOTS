@@ -15,7 +15,7 @@ DOTS News is a news aggregator created as part of coursework assigned as a part 
 DOTS is aimed at general readers of news. It is also aimed at writers who want to showcase their content.
 
 #### Team ####
-- Vamsi Krishna Thigulla - Team Leader, Content Manager - coe18b056@iiitdm.ac.in
+- Vamsi Krishna Thigulla - Team Leader, Content Manager, Technical Writer - coe18b056@iiitdm.ac.in
 - Hrishikesh Rajesh Menon - Graphic Designer - coe18b024@iiitdm.ac.in
 - Srinivasan R. Sharma - User Database Administrator, Backend Developer - coe18b065@iiitdm.ac.in
 - Vijay Meena - Primary Front End Developer - ced18i057@iiitdm.ac.in
@@ -91,3 +91,4 @@ Note: If you are a newly registered user, please verify your account before logg
 2. Past best stories are also taken into consideration when selecting the best story.
 3. Users can also read all the stories that are submitted.
 4. ![BestStory](Best.jpg)
+
