@@ -1,4 +1,4 @@
-## Welcome to DOTS News ##
+## DOTS News ##
 
 **DOTS News** is a news aggregator built as a project, as part of COM212P, Database Systems Course, given by IIITDM Kancheepuram.
 
@@ -75,6 +75,7 @@ DOTS is aimed at general readers of news. It is also aimed at writers who want t
 1. Enter the Username and Password with which you have registered.
 2. ![LoginPage](Login.jpg)
 Note: If you are a newly registered user, please verify your account before logging in to your account.
+3. To logout of the account, simply clear the cookies of the page.
 
 #### Story Submission ####
 1. Registered users can submit stories of any genre.
@@ -92,3 +93,6 @@ Note: If you are a newly registered user, please verify your account before logg
 3. Users can also read all the stories that are submitted.
 4. ![BestStory](Best.jpg)
 
+#### Search ####
+* Each category has its own search bar where users can input the required keywords.
+* Each search results upto 20 results for the specified keyword.
