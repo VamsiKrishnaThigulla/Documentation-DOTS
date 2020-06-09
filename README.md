@@ -84,3 +84,10 @@ Note: If you are a newly registered user, please verify your account before logg
 * The author name and story title must be given at the beginning.
 4. There is no limit to the number of submissions from a user.
 5. ![StoryUpload](Upload.jpg)
+
+#### Best Story ####
+[DOTS News Best Story](https://appl-web-news.000webhostapp.com/Best_Story.php)
+1. Every month, submissions from users will be compared and the best story will be published on the site.
+2. Past best stories are also taken into consideration when selecting the best story.
+3. Users can also read all the stories that are submitted.
+4. ![BestStory](Best.jpg)
